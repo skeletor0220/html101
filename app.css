@@ -1,0 +1,36 @@
+.container {
+    
+    position: absolute;
+    margin: auto;
+    top: 0;
+    right: 0;
+    bottom: 40%;
+    left: 0;
+    width: 1000px;
+    height: 100px;
+} 
+
+#su {
+    position: absolute; right: 0;
+}
+#goto {
+    position: absolute; bottom: 0;
+}
+h1 {
+    font: bold;
+
+    font-size: 100;
+}
+.btn-xlarge {
+    padding-top:50px;
+    padding-bottom:50px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+div p {
+    font-size: 50px;
+    text-align: center;
+}
+/* #dash {
+    padding-top:50px;
+} */
